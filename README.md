@@ -5,7 +5,7 @@
 
 
 ## 🌌 About Me
-👨‍🚀 I am a Machine Learning Engineer and Data Scientist, acquiring my BS degree in Computer Science as well as my BS degree in Applied Mathematics, at Florida International University also known as FIU (Go Panthers)!
+👨‍🚀 I am a Machine Learning Engineer and Data Scientist, acquiring my BS degree in Computer Science, at Florida International University also known as FIU (Go Panthers)!
 
 ![FIU Feature Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.y3AXVZrNzzRaHYeVgwzIrwAAAA%26pid%3DApi&f=1&ipt=309a173d0df9f38a7908038e362a55ae494478791f4263b4b16c1dc2fd23e9fd&ipo=images)
 
